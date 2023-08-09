@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Product 1",
+    "description": "Description of Product 1",
+    "code": "P1",
+    "price": 10.99,
+    "status": true,
+    "stock": 100,
+    "category": "Category 1",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "description": "Description of Product 2",
+    "code": "P2",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Category 2",
+    "thumbnails": [
+      "image3.jpg",
+      "image4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "michi",
+    "edad": 3
+  }
+]
